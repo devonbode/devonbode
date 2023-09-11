@@ -1,5 +1,14 @@
-### Hi there 👋
-
+## Hey there 😀
+>I am completing my undergraduate degree in neuroscience, and have been *especially* interested in learning about language development in children! I am currently working on an independent research project in this area. 
+>
+>**A few of my hobbies include:**
+> - reading
+>   - (Presently, I'm reading [American Gods](https://www.amazon.ca/American-Gods-Tenth-Anniversary-Novel/dp/0062472100/ref=asc_df_0062472100/?tag=googleshopc0c-20&linkCode=df0&hvadid=292998592027&hvpos=&hvnetw=g&hvrand=17622451915377524594&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000087&hvtargid=pla-434873380295&psc=1) 📖)
+> -  cooking in my crockpot
+>    - especially this [chili](https://natashaskitchen.com/slow-cooker-chili-recipe/) recipe for the fall weather
+> -  spending time with my kitty
+>   
+>
 <!--
 **devonbode/devonbode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
